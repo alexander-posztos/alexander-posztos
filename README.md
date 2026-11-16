@@ -3,11 +3,11 @@ I'm a full-stack developer in Vienna, finishing my MSc in Data Science at TU Wie
 Some of the stuff I'm working on:
 
 - 🧾 [Facturo](https://facturo.at/?utm_source=github&utm_medium=profile&utm_campaign=readme): Invoicing for Austrian small businesses. Django + HTMX in production.
-- 🧭 [ccdash](https://github.com/alexander-posztos/ccdash): A terminal dashboard for all your Claude Code projects - a per-project recap, git state, and one-key resume.
+- 🐚 [shellbent](https://github.com/alexander-posztos/shellbent): Coding agents using open-weight LLMs seem to be (s)hellbent on using shell commands for searching and reading code instead of named tools. The experiments for my master's thesis.
+- ⚖️ [grokipedia-bias](https://github.com/alexander-posztos/grokipedia-bias): Political bias in Grokipedia vs. Wikipedia, measured on 98,013 paired biographies.
 - ✏️ [sketchloop](https://github.com/alexander-posztos/sketchloop): A skill that lets your coding agent draw hand-drawn diagrams - rendered offline, self-corrected from the PNG.
-- 🤖 [pi-greeter](https://github.com/alexander-posztos/pi-greeter): A minimal alpha-nvim-style startup greeter for the Pi coding agent.
+- ❤️ [token-hungry](https://github.com/alexander-posztos/token-hungry): Your Claude and ChatGPT plan usage in the macOS menu bar, with a Minecraft mode.
 - 💬 [django-htmx-sse-chat](https://github.com/alexander-posztos/django-htmx-sse-chat): Streaming AI chat with Django 6.0 template partials and HTMX SSE, from my talk at the Django Vienna meetup.
-- 📓 [how-i-use-claude-code](https://github.com/alexander-posztos/how-i-use-claude-code): My guide to working with Claude Code - setup, skills, workflows, lessons learned.
 - ⌨️ [dotfiles](https://github.com/alexander-posztos/dotfiles): My keyboard-centric macOS setup - Neovim, AeroSpace, Karabiner, Ghostty.
 
 📫 posztosalexander@gmail.com
