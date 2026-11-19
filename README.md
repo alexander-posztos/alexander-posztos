@@ -10,4 +10,4 @@ Some of the stuff I'm working on:
 - 💬 [django-htmx-sse-chat](https://github.com/alexander-posztos/django-htmx-sse-chat): Streaming AI chat with Django 6.0 partials and HTMX SSE (Django Vienna meetup talk)
 - ⌨️ [dotfiles](https://github.com/alexander-posztos/dotfiles): My keyboard-centric macOS setup - Neovim, AeroSpace, Karabiner, Ghostty.
 
-📫 posztosalexander@gmail.com
+📫 alex@facturo.at
